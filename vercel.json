@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "routes": [
+      {"src": "/", "dest": "/pc.html"},
+      {"src": "/about", "dest": "/pc.html"}
+    ]
+  }
