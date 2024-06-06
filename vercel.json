@@ -1,7 +1,8 @@
 {
-    "version": 2,
-    "routes": [
-      {"src": "/", "dest": "/pc.html"},
-      {"src": "/about", "dest": "/pc.html"}
-    ]
-  }
+  "version": 2,
+  "routes": [
+    {"src": "/", "dest": "/pc.html"},
+    {"src": "/", "dest": "/sj.html"},
+    // 其他路由规则...
+  ]
+}
